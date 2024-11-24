@@ -1,0 +1,17 @@
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\bin\Debug\net8.0-windows\WinFormsVariosImagePB.exe
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\bin\Debug\net8.0-windows\WinFormsVariosImagePB.deps.json
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\bin\Debug\net8.0-windows\WinFormsVariosImagePB.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\bin\Debug\net8.0-windows\WinFormsVariosImagePB.dll
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\bin\Debug\net8.0-windows\WinFormsVariosImagePB.pdb
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.Form1.resources
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.dll
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\refint\WinFormsVariosImagePB.dll
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.pdb
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\ref\WinFormsVariosImagePB.dll
+C:\Users\erick\OneDrive\Documentos\EnriqueUAA\C#\Windows Form\WinFormsVariosImagePB\obj\Debug\net8.0-windows\WinFormsVariosImagePB.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsVariosImagePB/1.0.0": {
+        "runtime": {
+          "WinFormsVariosImagePB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsVariosImagePB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
